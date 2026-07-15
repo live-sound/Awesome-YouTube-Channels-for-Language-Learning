@@ -1,3 +1,5 @@
+[![Termy the sloth browsing YouTube](https://termy.ai/img/cta-browser.webp 'Termy the sloth browsing YouTube')](https://termy.ai)
+
 # Awesome YouTube Channels for Language Learning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -57,9 +59,7 @@ when their narration is exceptionally clear.
 
 ## Watch YouTube with Termy
 
-<a href="https://termy.ai/"><img src="https://termy.ai/img/termy.webp" alt="Termy" width="72"></a>
-
-[Termy](https://termy.ai/) is a language-learning companion for Windows and
+Termy is a language-learning companion for Windows and
 macOS. Use it while watching any channel in this list to:
 
 - capture subtitles, diagrams, labels, and other text directly from the screen;
